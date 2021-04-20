@@ -9,9 +9,9 @@
 
 I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a powerful tool to support the story behind the business field.
 
-- Programming/Tools: SQL, R, SAS, Python, SPSS, Jira, Asana, Databricks
-- Machine Learning: KNN, LDA/QDA, Random Forest, Decision Trees, AdaBoost, PCA, SVM, Neural Network 
-- Data Visualization: Tableau, Chartio, Pivot Table, matplotlib, ggplot2
+- **Programming/Tools:** SQL, R, SAS, Python, SPSS, Jira, Asana, Databricks
+- **Machine Learning:** KNN, LDA/QDA, Random Forest, Decision Trees, AdaBoost, PCA, SVM, Neural Network 
+- **Data Visualization:** Tableau, Chartio, Pivot Table, matplotlib, ggplot2
 
 <!--
 **iamcici0424/iamcici0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
