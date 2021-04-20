@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center"> <h1 align="center"> Cici Chen </h1> </p>
+<p align="center">
+<a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Cici Chen" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/iamcici/" target="_blank"><img align="center" src="https://img.icons8.com/ios/250/000000/linkedin.png" alt="Cici Chen" height="20" width="20" /></a>
+</p>
+
 <!--
 **iamcici0424/iamcici0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
