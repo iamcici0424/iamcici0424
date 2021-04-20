@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<p align="center"> <h1 align="center"> Cici Chen </h1> </p>
+<p align="center"> <h1 align="center"> Elangovan Sndar </h1> </p>
 <p align="center">
-<a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Cici Chen" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/iamcici/" target="_blank"><img align="center" src="https://img.icons8.com/ios/250/000000/linkedin.png" alt="Cici Chen" height="20" width="20" /></a>
+<a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" alt="Cici Chen" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/iamcici/" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="Cici Chen" height="20" width="20" /></a>
+<a href="https://www.notion.so/iamcici/Welcome-to-Cici-s-Project-Portfolio-45f750933f6d4cf6b6de73bf73239bca" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/minimal-social-brand/24/Notion-512.png" alt="Cici Chen" height="20" width="20" /></a>
 </p>
 
 <!--
