@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"> <h1 align="center"> Elangovan Sndar </h1> </p>
+<p align="center"> <h1 align="center"> Cici Chen </h1> </p>
 <p align="center">
 <a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" alt="Cici Chen" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/iamcici/" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="Cici Chen" height="20" width="20" /></a>
