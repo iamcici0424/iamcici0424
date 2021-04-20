@@ -16,6 +16,11 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 - **Machine Learning:** KNN, LDA/QDA, Random Forest, Decision Trees, AdaBoost, PCA, SVM, Neural Network 
 - **Data Visualization:** Tableau, Chartio, Pivot Table, matplotlib, ggplot2
 
+
+
+**Marketing Section**
+[MMM](Marketing-Mix-Models/README.md)
+
 <!--
 **iamcici0424/iamcici0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
