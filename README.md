@@ -8,10 +8,15 @@
 </p>
 
 　 ∧＿∧
+  
 （｡･ω･｡)つ━☆・*。
+
 ⊂　　 ノ 　　　・゜+.
+
 　しーＪ　　　°。+ *´¨)
+ 
 　　　 　　.· ´¸.·*´¨) ¸.·*¨)
+      
 　　　　　　　 　(¸.·´ (¸.·’*
 
 I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a powerful tool to support the story behind the business field.
