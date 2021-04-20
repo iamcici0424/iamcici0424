@@ -7,18 +7,9 @@
 <a href="https://www.notion.so/iamcici/Welcome-to-Cici-s-Project-Portfolio-45f750933f6d4cf6b6de73bf73239bca" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/minimal-social-brand/24/Notion-512.png" alt="Cici Chen" height="20" width="20" /></a>
 </p>
 
-　 ∧＿∧
-  
-（｡･ω･｡)つ━☆・*。
+<img align='right' src="https://iamcici0424.github.io/images/bio-pic-1.jpg" width="230" >
 
-⊂　　 ノ 　　　・゜+.
-
-　しーＪ　　　°。+ *´¨)
- 
-　　　 　　.· ´¸.·*´¨) ¸.·*¨)
-      
-　　　　　　　 　(¸.·´ (¸.·’*
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a powerful tool to support the story behind the business field.
 
 - **Programming/Tools:** SQL, R, SAS, Python, SPSS, Jira, Asana, Databricks
