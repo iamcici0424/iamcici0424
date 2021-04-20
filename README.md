@@ -19,7 +19,7 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 
 **Marketing Section**
-[MMM](Marketing-Mix-Models/README.md)
+[MMM](https://github.com/iamcici0424/Marketing-Mix-Models)
 
 <!--
 **iamcici0424/iamcici0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
