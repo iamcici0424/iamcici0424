@@ -12,11 +12,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a powerful tool to support the story behind the business field.
 
-- **Programming/Tools:** SQL, R, SAS, Python, SPSS, Jira, Asana, Databricks
+- **Programming/Tools:** SQL, R, SAS, Python, SPSS, Excel, Jira, Asana, Databricks
 - **Machine Learning:** KNN, LDA/QDA, Random Forest, Decision Trees, AdaBoost, PCA, SVM, Neural Network 
 - **Data Visualization:** Tableau, Chartio, Pivot Table, matplotlib, ggplot2
-
-
 
 **Marketing Section**
 [MMM](https://github.com/iamcici0424/Marketing-Mix-Models)
