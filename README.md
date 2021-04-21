@@ -7,16 +7,6 @@
 <a href="https://www.notion.so/iamcici/Welcome-to-Cici-s-Project-Portfolio-45f750933f6d4cf6b6de73bf73239bca" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/minimal-social-brand/24/Notion-512.png" alt="Cici Chen" height="20" width="20" /></a>
 </p>
 
-```
-　 ∧＿∧
-（｡･ω･｡)つ━☆・*。
-⊂　　 ノ 　　　・゜+.
-　しーＪ　　　°。+ *´¨)
-　　　 　　.· ´¸.·*´¨) ¸.·*¨)
-　　　　　　　 　(¸.·´ (¸.·’*
-
-```
-
 <img align='right' src="https://i.loli.net/2021/04/22/YTayK1N9zitwnlH.png" width="230" >
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
