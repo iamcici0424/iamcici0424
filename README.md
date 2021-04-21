@@ -17,7 +17,7 @@
 
 ```
 
-<img align='right' src="https://iamcici0424.github.io/images/bio-pic-1.jpg" width="230" >
+<img align='right' src="https://drive.google.com/file/d/1_zU6VOO3UdvuzmbBnSXAzF1NnFvJ39oZ/view?usp=sharing" width="230" >
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a powerful tool to support the story behind the business field.
