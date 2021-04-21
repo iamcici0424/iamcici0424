@@ -19,7 +19,6 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 **Marketing Section**
 [MMM](https://github.com/iamcici0424/Marketing-Mix-Models)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcici0424)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **iamcici0424/iamcici0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
