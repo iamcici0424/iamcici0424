@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <p align="center"> <h1 align="center"> Cici Chen </h1> </p>
-<p align="center">
-  
-  <a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-filled-2/24/social_media-20-512.png" alt="Cici Chen" height="40" width="40" /></a>
+<p align="center"><a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-filled-2/24/social_media-20-512.png" alt="Cici Chen" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/iamcici/" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="Cici Chen" height="35" width="35" /></a>
   <a href="https://www.notion.so/iamcici/Welcome-to-Cici-s-Project-Portfolio-45f750933f6d4cf6b6de73bf73239bca" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/2x/notion.png" alt="Cici Chen" height="50" width="50" /></a>
   
@@ -35,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
