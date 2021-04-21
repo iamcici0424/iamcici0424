@@ -9,6 +9,12 @@
 
 <img align='right' src="https://i.loli.net/2021/04/22/YTayK1N9zitwnlH.png" width="230" >
 
+- 🔭 I’m currently working on HealthCare Data.
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: cc4291@columbia.edu
+- ⚡ Fun fact: Big fan of Harry Potter; Road Trip Lovers; Making Healthy Desserts
+- 📝 [Resume](https://www.notion.so/iamcici/Resume-8fe8945f1d28476b8343de4e61cf46ee#b642b55f20b444dc8b509d4fcc0ef357)
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a powerful tool to support the story behind the business field.
 
@@ -34,4 +40,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
