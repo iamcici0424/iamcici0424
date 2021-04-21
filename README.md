@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center"> <h1 align="center"> Cici Chen </h1> </p>
 <p align="center"><a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-filled-2/24/social_media-20-512.png" alt="Cici Chen" height="40" width="40" /></a>
