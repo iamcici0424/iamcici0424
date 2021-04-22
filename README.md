@@ -1,6 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-![](https://visitor-badge.glitch.me/badge?page_id=iamcici.iamcici)
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <p align="center"> <h1 align="center"> Cici Chen </h1> </p>
 <p align="center"><a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-filled-2/24/social_media-20-512.png" alt="Cici Chen" height="40" width="40" /></a>
@@ -27,6 +25,8 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 **Marketing Section**
 [MMM](https://github.com/iamcici0424/Marketing-Mix-Models)
 
+
+![](https://visitor-badge.glitch.me/badge?page_id=iamcici.iamcici)
 
 <!--
 **iamcici0424/iamcici0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
