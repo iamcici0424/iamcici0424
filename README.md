@@ -5,8 +5,7 @@
   <a href="https://www.linkedin.com/in/iamcici/" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="Cici Chen" height="35" width="35" /></a>
   <a href="https://www.notion.so/iamcici/Welcome-to-Cici-s-Project-Portfolio-45f750933f6d4cf6b6de73bf73239bca" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/2x/notion.png" alt="Cici Chen" height="50" width="50" /></a>
   <a href="mailto:cc4291@columbia.edu" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-512.png" alt="Cici Chen" height="32" width="32" /></a>
-
-
+</p>
   <img align="right" width="230" src="https://i.loli.net/2021/04/22/YTayK1N9zitwnlH.png">
 
 - 🔭 I’m currently working on HealthCare Data.
@@ -23,10 +22,7 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 - **Data Visualization:** Tableau, Chartio, Pivot Table, matplotlib, ggplot2
 
 
-
-
-
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some of my projects
 <table><tr><td valign="top" width="33%">
   
 ### Marketing
