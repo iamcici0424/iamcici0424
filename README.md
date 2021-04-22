@@ -32,6 +32,7 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 <img width="20" src="https://oefv17-assets-dev.s3.amazonaws.com/presenter_assets/images/000/001/412/original/http___ohioeventfinder.com_organization_image_file_9111_SMG.jpg?1494416609">[Team China: Product Promotion Plan](Product_Promotion_Plan/README.md)
 
 <img width="20" src="https://media.licdn.com/dms/image/C4D0BAQEo4vVYUAo5Ag/company-logo_200_200/0?e=2159024400&v=beta&t=z0Lqm4JjoDfSDYgij_oKNh82mvOcjIngerexa8YMv0c">[Case Study: Beyond the Bean](Beyond_the_Bean/README.md)
+
 <img width="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Bvs5q7Ym5Ja-ZuHK6Mv-wdv3YxeeyyIfdAH82MMyw0FQ5zSd7DJlnSnKDzOYYqJMlU4&usqp=CAU">[Retail Food Options on Campus: Are Students Satisfied?](/README.md)
 
 
