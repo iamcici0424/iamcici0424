@@ -24,11 +24,16 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 
 <table><tr><td valign="top" width="33%">
-### TIL
+  
+### Marketing
 </td><td valign="top" width="34%">
-### TIL
+
+### Data Science
+[MMM](https://github.com/iamcici0424/Marketing-Mix-Models) 
 </td><td valign="top" width="33%">
-### TIL
+  
+### Analytics
+  
 </td></tr></table>
 
 
@@ -48,5 +53,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[MMM](https://github.com/iamcici0424/Marketing-Mix-Models)
