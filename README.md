@@ -29,13 +29,13 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 ### Marketing
 
- <a href="#"><img width="25" src=pics/audible.png > [Audible: Experimental Design](iamcici0424/Audible_Experimental_Design/README.md) </a>
+<a href="#"><img width="25" src=pics/audible.png > [Audible: Experimental Design](https://github.com/iamcici0424/Audible_Experimental_Design) </a>
+ 
+<a href="#"><img width="20" src=pics/team_china.jpg > [Team China: Product Promotion Plan](https://github.com/iamcici0424/Product_Promotion_Plan) </a>
 
- <a href="#"><img width="20" src=pics/team_china.jpg >   [Team China: Product Promotion Plan](iamcici0424/Product_Promotion_Plan/README.md) </a>
+<a href="#"><img width="20" src=pics/beyond_the_bean.png > [Case Study: Beyond the Bean](https://github.com/iamcici0424/Beyond_the_Bean) </a>
 
- <a href="#"><img width="20" src=pics/beyond_the_bean.png >    [Case Study: Beyond the Bean](iamcici0424/Beyond_the_Bean/README.md) </a>
-
- <a href="#"><img width="20" src=pics/armark.png >   [Retail Food Options on Campus: Are Students Satisfied?](/README.md) </a>
+<a href="#"><img width="20" src=pics/armark.png >[Retail Food Options on Campus: Are Students Satisfied?](https://github.com/iamcici0424/Retail_Food_Options_on_Campus) </a>
 
 
 </td><td valign="top" width="34%">
@@ -54,15 +54,6 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamcici.iamcici)
 
-
-
-
-
-
-
-
-
-[Audible: Experimental Design](iamcici0424/Audible_Experimental_Design/README.md)
 
 
 
