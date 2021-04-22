@@ -27,7 +27,16 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 ### Marketing
 
-* [django-sql-dashboard 0.8a2](https://github.com/iamcici0424/Marketing-Mix-Models)
+<img width="25" src="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/images/logo/Audible_Logo_New_Icon._V312762632_.png">[Audible: Experimental Design](Audible_Experimental_Design/README.md)
+
+<img width="25" src="https://oefv17-assets-dev.s3.amazonaws.com/presenter_assets/images/000/001/412/original/http___ohioeventfinder.com_organization_image_file_9111_SMG.jpg?1494416609">[Team China: Product Promotion Plan](Product_Promotion_Plan/README.md)
+
+
+
+
+
+
+
 
 </td><td valign="top" width="34%">
 
