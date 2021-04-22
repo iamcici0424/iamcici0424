@@ -25,8 +25,6 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 ###  <a href="#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Some of my projects... 
 
-[Audible: Experimental Design](iamcici0424/Audible_Experimental_Design/README.md)
-
 <table><tr><td valign="top" width="33%">
 
 ### Marketing
@@ -55,6 +53,18 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 </td></tr></table>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamcici.iamcici)
+
+
+
+
+
+
+
+
+
+[Audible: Experimental Design](iamcici0424/Audible_Experimental_Design/README.md)
+
+
 
 <!--
 **iamcici0424/iamcici0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
