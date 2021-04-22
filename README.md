@@ -38,12 +38,20 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 <a href="#"><img width="20" src=pics/armark.png >[Retail Food Options on Campus: Are Students Satisfied?](https://github.com/iamcici0424/Retail_Food_Options_on_Campus) </a>
 
-
 </td><td valign="top" width="34%">
 
 ### Data Science
 
-* [Weeknotes: The Aftermath](https://github.com/iamcici0424/Marketing-Mix-Models)
+<a href="#"><img width="25" src=pics/MMM.jpg > [Marketing Mix Models: Advertising Response Measurement](https://github.com/iamcici0424/Marketing-Mix-Models) </a>
+
+<a href="#"><img width="25" src=pics/ML.png > [Fashion Image Recognition Using Machine Learning](https://github.com/iamcici0424/Fashion_Image_Recognition_Using_Machine_Learning) </a>
+
+<a href="#"><img width="25" src=pics/fin.png > [Statistical Methods in Finance](https://github.com/iamcici0424/Statistical_Methods_in_Finance) </a>
+
+<a href="#"><img width="25" src=pics/wage.png > [Wage difference Between Black & White People](https://github.com/iamcici0424/Wage_Difference) </a>
+
+<a href="#"><img width="25" src=pics/crime.png > [Crime Data Analysis]( ) </a>
+
 
 </td><td valign="top" width="33%">
 
