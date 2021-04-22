@@ -57,7 +57,7 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 ### Business Analytics
 
-* [Filter by comma-separated values in the Django admin](https://github.com/iamcici0424/Marketing-Mix-Models)
+<a href="#"><img width="25" src=pics/work.png > [AdventureWorks Workforce Evaluation]( ) </a>
 
 </td></tr></table>
 
