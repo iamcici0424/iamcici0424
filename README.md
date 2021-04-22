@@ -25,17 +25,17 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 ###  <a href="#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Some of my projects... 
 
-[Audible: Experimental Design](Audible_Experimental_Design/README.md)
+[Audible: Experimental Design](iamcici0424/Audible_Experimental_Design/README.md)
 
 <table><tr><td valign="top" width="33%">
 
 ### Marketing
 
- <a href="#"><img width="25" src=pics/audible.png > [Audible: Experimental Design](Audible_Experimental_Design/README.md) </a>
+ <a href="#"><img width="25" src=pics/audible.png > [Audible: Experimental Design](iamcici0424/Audible_Experimental_Design/README.md) </a>
 
- <a href="#"><img width="20" src=pics/team_china.jpg >   [Team China: Product Promotion Plan](Product_Promotion_Plan/README.md) </a>
+ <a href="#"><img width="20" src=pics/team_china.jpg >   [Team China: Product Promotion Plan](iamcici0424/Product_Promotion_Plan/README.md) </a>
 
- <a href="#"><img width="20" src=pics/beyond_the_bean.png >    [Case Study: Beyond the Bean](Beyond_the_Bean/README.md) </a>
+ <a href="#"><img width="20" src=pics/beyond_the_bean.png >    [Case Study: Beyond the Bean](iamcici0424/Beyond_the_Bean/README.md) </a>
 
  <a href="#"><img width="20" src=pics/armark.png >   [Retail Food Options on Campus: Are Students Satisfied?](/README.md) </a>
 
