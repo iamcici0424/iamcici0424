@@ -21,6 +21,28 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 - **Machine Learning:** KNN, LDA/QDA, Random Forest, Decision Trees, AdaBoost, PCA, SVM, Neural Network 
 - **Data Visualization:** Tableau, Chartio, Pivot Table, matplotlib, ggplot2
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some of my projects... 
+
+<table><tr><td valign="top" width="33%">
+
+### Marketing
+
+* [django-sql-dashboard 0.8a2](https://github.com/iamcici0424/Marketing-Mix-Models)
+
+</td><td valign="top" width="34%">
+
+### Data Science
+
+* [Weeknotes: The Aftermath](https://github.com/iamcici0424/Marketing-Mix-Models)
+
+</td><td valign="top" width="33%">
+
+### Business Analytics
+
+* [Filter by comma-separated values in the Django admin](https://github.com/iamcici0424/Marketing-Mix-Models)
+
+</td></tr></table>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=iamcici.iamcici)
 
 <!--
