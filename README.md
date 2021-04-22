@@ -21,30 +21,7 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 - **Machine Learning:** KNN, LDA/QDA, Random Forest, Decision Trees, AdaBoost, PCA, SVM, Neural Network 
 - **Data Visualization:** Tableau, Chartio, Pivot Table, matplotlib, ggplot2
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some of my projects
-<table><tr><td valign="top" width="33%">
-  
-### Marketing
-</td><td valign="top" width="34%">
-
-### Data Science
-[MMM](https://github.com/iamcici0424/Marketing-Mix-Models) 
-</td><td valign="top" width="33%">
-  
-### Analytics
-  
-</td></tr></table>
-
-
-### Quick stats about me
-| Github Stats | Top Languages |
-| --- | --- |
-| ![Cici's github stats](https://github-readme-stats.vercel.app/api?username=iamcici0424&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcici0424&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=iamcici.iamcici)
-
 
 <!--
 **iamcici0424/iamcici0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
