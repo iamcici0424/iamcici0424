@@ -29,7 +29,7 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 ### Marketing
 
- <a href="#"><img width="25" src=pics/audible.png >   [Audible: Experimental Design](Audible_Experimental_Design/README.md) </a>
+ <a href="#"><img width="25" src=pics/audible.png > [Audible: Experimental Design](Audible_Experimental_Design/README.md) </a>
 
  <a href="#"><img width="20" src=pics/team_china.jpg >   [Team China: Product Promotion Plan](Product_Promotion_Plan/README.md) </a>
 
