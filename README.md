@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <p align="center"> <h1 align="center"> Welcome to Cici's Portfolio</h1> </p>
-<p align="center"> <h4 align="center"> Marketing & Statistics | Actively Seeking for Data & Analytics opportunities | Storyteller </h4> </p>
+<p align="center"> <h4 align="center"> Marketing & Statistics |  Data & Analytics | Storyteller |</h4> </p>
 
 <p align="center"><a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-filled-2/24/social_media-20-512.png" alt="Cici Chen" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/iamcici/" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="Cici Chen" height="35" width="35" /></a>
