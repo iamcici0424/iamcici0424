@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<p align="center"> <h1 align="center"> Cici Chen</h1> </p>
+<p align="center"> <h4 align="center"> Marketing & Statistics |  Data & Analytics | Storyteller |</h4> </p>
 
-<p align="center"> <h1 align="center"> Cici Chen </h1> </p>
 <p align="center"><a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-filled-2/24/social_media-20-512.png" alt="Cici Chen" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/iamcici/" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="Cici Chen" height="35" width="35" /></a>
   <a href="https://www.notion.so/iamcici/Welcome-to-Cici-s-Project-Portfolio-45f750933f6d4cf6b6de73bf73239bca" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/2x/notion.png" alt="Cici Chen" height="50" width="50" /></a>
@@ -23,26 +24,34 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 - **Machine Learning:** KNN, LDA/QDA, Random Forest, Decision Trees, AdaBoost, PCA, SVM, Neural Network 
 - **Data Visualization:** Tableau, Chartio, Pivot Table, matplotlib, ggplot2
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some of my projects... 
+###  <a href="#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Some of my projects... 
 
 <table><tr><td valign="top" width="33%">
 
 ### Marketing
 
-<img width="25" src=pics/audible.png >   [Audible: Experimental Design](Audible_Experimental_Design/README.md)
+<a href="#"><img width="25" src=pics/audible.png > [Audible: Experimental Design](https://github.com/iamcici0424/Audible_Experimental_Design) </a>
+ 
+<a href="#"><img width="20" src=pics/team_china.jpg > [Team China: Product Promotion Plan](https://github.com/iamcici0424/Product_Promotion_Plan) </a>
 
-<img width="20" src=pics/team_china.jpg >   [Team China: Product Promotion Plan](Product_Promotion_Plan/README.md)
+<a href="#"><img width="20" src=pics/beyond_the_bean.png > [Case Study: Beyond the Bean](https://github.com/iamcici0424/Beyond_the_Bean) </a>
 
-<img width="20" src=pics/beyond_the_bean.png >    [Case Study: Beyond the Bean](Beyond_the_Bean/README.md)
-
-<img width="20" src="pics/armark.png >   [Retail Food Options on Campus: Are Students Satisfied?](/README.md)
-
+<a href="#"><img width="20" src=pics/armark.png >[Retail Food Options on Campus: Are Students Satisfied?](https://github.com/iamcici0424/Retail_Food_Options_on_Campus) </a>
 
 </td><td valign="top" width="34%">
 
 ### Data Science
 
-* [Weeknotes: The Aftermath](https://github.com/iamcici0424/Marketing-Mix-Models)
+<a href="#"><img width="25" src=pics/MMM.jpg > [Marketing Mix Models: Advertising Response Measurement](https://github.com/iamcici0424/Marketing-Mix-Models) </a>
+
+<a href="#"><img width="25" src=pics/ML.png > [Fashion Image Recognition Using Machine Learning](https://github.com/iamcici0424/Fashion_Image_Recognition_Using_Machine_Learning) </a>
+
+<a href="#"><img width="25" src=pics/fin.png > [Statistical Methods in Finance](https://github.com/iamcici0424/Statistical_Methods_in_Finance) </a>
+
+<a href="#"><img width="25" src=pics/wage.png > [Wage difference Between Black & White People](https://github.com/iamcici0424/Wage_Difference) </a>
+
+<a href="#"><img width="25" src=pics/crime.png > [Crime Data Analysis]( ) </a>
+
 
 </td><td valign="top" width="33%">
 
@@ -53,6 +62,9 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 </td></tr></table>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamcici.iamcici)
+
+
+
 
 <!--
 **iamcici0424/iamcici0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
