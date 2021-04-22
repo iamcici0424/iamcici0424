@@ -7,7 +7,9 @@
   <a href="mailto:cc4291@columbia.edu" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-512.png" alt="Cici Chen" height="32" width="32" /></a>
 </p>
 
-<img align='right' src="https://i.loli.net/2021/04/22/YTayK1N9zitwnlH.png" width="230" >
+<p align="center">
+  <img width="230" src="https://i.loli.net/2021/04/22/YTayK1N9zitwnlH.pn">
+</p>
 
 - 🔭 I’m currently working on HealthCare Data.
 - 🌱 I’m currently learning Python
