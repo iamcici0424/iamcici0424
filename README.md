@@ -35,7 +35,7 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 <img width="20" src=pics/beyond_the_bean.png >    [Case Study: Beyond the Bean](Beyond_the_Bean/README.md)
 
-<img width="20" src="pics/armark.png >   [Retail Food Options on Campus: Are Students Satisfied?](/README.md)
+<img width="20" src=pics/armark.png >   [Retail Food Options on Campus: Are Students Satisfied?](/README.md)
 
 
 </td><td valign="top" width="34%">
