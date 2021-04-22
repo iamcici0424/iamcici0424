@@ -22,8 +22,14 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 - **Machine Learning:** KNN, LDA/QDA, Random Forest, Decision Trees, AdaBoost, PCA, SVM, Neural Network 
 - **Data Visualization:** Tableau, Chartio, Pivot Table, matplotlib, ggplot2
 
-**Marketing Section**
-[MMM](https://github.com/iamcici0424/Marketing-Mix-Models)
+
+<table><tr><td valign="top" width="33%">
+### TIL
+</td><td valign="top" width="34%">
+### TIL
+</td><td valign="top" width="33%">
+### TIL
+</td></tr></table>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamcici.iamcici)
@@ -42,3 +48,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[MMM](https://github.com/iamcici0424/Marketing-Mix-Models)
