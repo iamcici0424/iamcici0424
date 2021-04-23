@@ -8,7 +8,7 @@
   <a href="mailto:cc4291@columbia.edu" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-512.png" alt="Cici Chen" height="22" width="22" /></a>
 </p>
 
- <a href="#"><img align="right" src=pics/pic1.png width=250>
+ <a href="#"><img align="right" src=pics/pic1.png width=260>
  </a>
 
 - 🔭 I’m currently working on HealthCare Data.
