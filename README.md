@@ -10,20 +10,21 @@
  <a href="#"><img align="right" src=pics/pic1.png width=260>
  </a>
 
-- 🔭 I’m currently working on HealthCare Data.
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: cc4291@columbia.edu
-- ⚡ Fun fact: Big fan of Harry Potter; Road Trip Lovers; Making Healthy Desserts
-- 📝 [Resume](https://www.notion.so/iamcici/Resume-8fe8945f1d28476b8343de4e61cf46ee#b642b55f20b444dc8b509d4fcc0ef357)
+- 💻 How to reach me: cc4291@columbia.edu
+- 📝 [Resume](Resume_Cici_Chen.pdf)
+- 🌱 I’m currently refreshing and learning advanced Python skills...
+- ⚡  Fun fact: Big fan of Harry Potter; Road-trips lover; Making Healthy Desserts...
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a powerful tool to support the story behind the business field.
 
-- **Programming/Tools:** SQL, R, SAS, Python, SPSS, Excel, Jira, Asana, Databricks
-- **Machine Learning:** KNN, LDA/QDA, Random Forest, Decision Trees, AdaBoost, PCA, SVM, Neural Network 
-- **Data Visualization:** Tableau, Chartio, Pivot Table, matplotlib, ggplot2
+I'm Cici! I desire to transform data into useful information and bring brilliant product insights to the table as a Data Analyst for SchoolCare, a healthcare startup based in NYC. Utilizing data is always a powerful tool to support the story behind and data has its own power to continuesly change our life:)
 
-###  <a href="#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Some of my projects... 
+- **Programming/Tools**: SQL, R (ggplot2, dplyr, glmnet, shiny, etc), Excel (Pivot Table, vlookup), SPSS,
+Python (Matplotlib, NumPy, pandas, etc), Tableau, SAS, Chartio, Jira, Asana, Databricks
+- **Certifications**: Google Analytics, CITI Researcher, SAS Advanced/Statistical Business Analyst, Hootsuite Platform 
+- **Machine Learning**: KNN, LDA/QDA, Random Forest, Decision Trees, AdaBoost, PCA, SVM, Neural Network
+
+### <a href="#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Some of my projects... 
 
 <table><tr><td valign="top" width="33%">
 
@@ -39,7 +40,7 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 </td><td valign="top" width="34%">
 
-### Data Science
+### Data Science & Statistics
 
 <a href="#"><img width="25" src=pics/MMM.jpg > [Marketing Mix Models: Advertising Response Measurement](https://github.com/iamcici0424/Marketing-Mix-Models) </a>
 
@@ -54,7 +55,7 @@ I'm Cici. I'm a Data Analyst who is passionate about utilizating data as a power
 
 </td><td valign="top" width="33%">
 
-### Business Analytics
+### Business Intelligence & Analytics
 
 <a href="#"><img width="25" src=pics/work.png > [AdventureWorks Workforce Evaluation](https://github.com/iamcici0424/AdventureWorks_Workforce_Evaluation) </a>
 
