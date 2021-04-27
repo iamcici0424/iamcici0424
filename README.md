@@ -1,4 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Cici!
+
 <h4 align="center"> Data Analyst @SchoolCare - a healthcare startup based in NYC | Marketing & Statistics | Storyteller </h4>
 
 <p align="center"><a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-filled-2/24/social_media-20-512.png" alt="Cici Chen" height="30" width="30" /></a>
