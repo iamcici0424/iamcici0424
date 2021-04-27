@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Cici!
-<p align="center"> <h4 align="center"> Data Analyst @SchoolCare | Marketing & Statistics | Storyteller</h4> </p>
+<p align="center"> <h4 align="center"> Data Analyst @SchoolCare | Marketing & Statistics | Storyteller</h4></p>
 
 <p align="center"><a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-filled-2/24/social_media-20-512.png" alt="Cici Chen" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/iamcici/" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="Cici Chen" height="25" width="25" /></a>
@@ -64,11 +64,6 @@ Python (Matplotlib, NumPy, pandas, etc), Tableau, SAS, Chartio, Jira, Asana, Dat
 <a href="#"><img width="25" src=pics/noom.png > [Noom: Simple Marketing Analysis](https://github.com/iamcici0424/Noom_Marketing_Analysis) </a>
 
 </td></tr></table>
-
-![](https://visitor-badge.glitch.me/badge?page_id=iamcici.iamcici)
-
-
-
 
 <!--
 **iamcici0424/iamcici0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
