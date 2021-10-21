@@ -26,7 +26,7 @@ Graduated in 2019 from Columbia University(*M.A. in Statistics*) and in 2017 fro
 - **Programming/Tools**: SQL, R (ggplot2, dplyr, glmnet, shiny, etc), Excel (Pivot Table, vlookup), SPSS,
 Python (Matplotlib, NumPy, pandas, etc), Tableau, SAS, Chartio, Jira, Asana, Databricks
 - **Certifications**: Google Analytics, CITI Researcher, SAS Advanced/Statistical Business Analyst, Hootsuite Platform 
-- **Machine Learning**: KNN, LDA/QDA, Random Forest, Decision Trees, AdaBoost, PCA, SVM, Neural Network
+- **Machine Learning**: Decision Tree, Random Forest, PCA, SVM, Logistic Regression, KNN, Clustering, Regularization
 
 ### <a href="#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Some of my projects... 
 
