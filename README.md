@@ -15,7 +15,7 @@
  </a>
 
 - 💻 How to reach me: cc4291@columbia.edu
-- 📝 [Resume -  Last Update: 20211020](Resume_Cici_Chen.pdf)
+- 📝 [Resume -  Last Update: 20210120](Resume_Cici_Chen.pdf)
 - 🌱 I’m currently refreshing and learning advanced Python skills and more...
 - ⚡  Fun fact: Big fan of Harry Potter; Road-trips lover; Making Healthy Desserts...
 
