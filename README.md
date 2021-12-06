@@ -62,8 +62,6 @@ Python (Matplotlib, NumPy, pandas, etc), Tableau, SAS, Chartio, Jira, Asana, Dat
 
   <a href="#"><img width="25" src=pics/work.png > [AdventureWorks Workforce Evaluation](https://github.com/iamcici0424/AdventureWorks_Workforce_Evaluation) </a>
 
-  <a href="#"><img width="25" src=pics/edu.png > [Education Data in School and Student Improvement](https://github.com/iamcici0424/Education_Data_in_School_and_Student_Improvement) </a>
-
   <a href="#"><img width="25" src=pics/noom.png > [Noom: Simple Marketing Analysis](https://github.com/iamcici0424/Noom_Marketing_Analysis) </a>
 
 </td></tr></table>
