@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Cici!
 
 <h4 align="center"> 
-  Data Analyst <a href="https://www.schoolcare.com/" title="标题"> @SchoolCare </a>| Marketing & Statistics | Business Intelligence & Analytics
+  Business Intelligence Engineer <a href="https://www.amazon.com/" title="标题"> @AWS </a>| Marketing & Statistics | Data Analytics
 </h4>
 
 <p align="center">
