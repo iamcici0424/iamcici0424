@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Cici!
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Cici!
 
 <h4 align="center"> 
   Business Intelligence Engineer <a href="https://www.amazon.com/" title="标题"> @AWS </a>| Marketing & Statistics | Data Analytics
