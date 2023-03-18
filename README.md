@@ -14,7 +14,7 @@
  <a href="#"><img align="right" src=pics/pic1.png width=260>
  </a>
 
-- 💻 How to reach me: cc4291@columbia.edu
+- 💻 How to reach me: chencici0424@gmail.com
 - 📝 [Resume -  Last Update: 20211209](Resume_Cici_Chen.pdf)
 - 🌱 I’m currently refreshing and learning advanced Python skills and more...
 - ⚡  Fun fact: Big fan of Harry Potter; Road-trips lover; Making Healthy Desserts...
