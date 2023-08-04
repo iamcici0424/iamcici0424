@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Cici!
 
 <h4 align="center"> 
-  Business Intelligence Engineer <a href="https://www.amazon.com/" title="标题"> @AWS </a>| Marketing & Statistics | Data Analytics
+  Business Intelligence Engineer II <a href="https://aws.amazon.com/?nc2=h_lg" title="标题"> @AWS </a> We build AWS Cloud | Marketing & Statistics | Data Analytics
 </h4>
 
 <p align="center">
@@ -14,8 +14,8 @@
  <a href="#"><img align="right" src=pics/pic1.png width=260>
  </a>
 
-- 💻 How to reach me: cc4291@columbia.edu
-- 📝 [Resume -  Last Update: 20211209](Resume_Cici_Chen.pdf)
+- 💻 How to reach me: chencici0424@gmail.com
+- 📝 [Resume](Resume_Cici_Chen.pdf)
 - 🌱 I’m currently refreshing and learning advanced Python skills and more...
 - ⚡  Fun fact: Big fan of Harry Potter; Road-trips lover; Making Healthy Desserts...
 
