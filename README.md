@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://github.com/iamcici0424" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-filled-2/24/social_media-20-512.png" alt="Cici Chen" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/iamcici/" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="Cici Chen" height="25" width="25" /></a>
-  <a href="https://www.notion.so/iamcici/Welcome-to-Cici-s-Project-Portfolio-45f750933f6d4cf6b6de73bf73239bca" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/2x/notion.png" alt="Cici Chen" height="35" width="35" /></a>
-  <a href="mailto:cc4291@columbia.edu" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-512.png" alt="Cici Chen" height="22" width="22" /></a>
+  <a href="https://iamcici.notion.site/Welcome-to-Cici-s-Project-Portfolio-45f750933f6d4cf6b6de73bf73239bca" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/2x/notion.png" alt="Cici Chen" height="35" width="35" /></a>
+  <a href="mailto:chencici0424@gmail.com" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-512.png" alt="Cici Chen" height="22" width="22" /></a>
 </p>
 
  <a href="#"><img align="right" src=pics/pic1.png width=260>
