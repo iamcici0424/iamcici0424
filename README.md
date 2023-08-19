@@ -23,10 +23,12 @@
 
 Graduated in 2019 from Columbia University(*M.A. in Statistics*) and in 2017 from Baylor University (*B.B.A. in Marketing*). On my way to explore the beauty of data science, I have always been interested in transforming data into useful information and bringing brilliant product insights to the table. I believe that utilizing data is a powerful tool to support the story behind and I desire to continue to learn and grow more in this area step by step.
 
-- **Programming/Tools**: SQL, R (ggplot2, dplyr, glmnet, shiny, etc), Excel (Pivot Table, vlookup), SPSS,
+- **Programming**: SQL(joins, windows, ctes, etc.), R(ggplot2, dplyr, glmnet, shiny, etc.), Excel (pivot table, vlookup), Python(matplotlib, numpy, pandas), SAS(Certified in Advanced/Statistical Business Analyst)
 Python (Matplotlib, NumPy, pandas, etc), Tableau, SAS, Jira, Asana, Databricks
-- **Certifications**: Google Analytics, CITI Researcher, SAS Advanced/Statistical Business Analyst, Hootsuite Platform 
-- **Machine Learning**: Decision Tree, Random Forest, PCA, SVM, Logistic Regression, KNN, Clustering, Regularization
+- **Certifications**: Google Analytics, CITI Researcher, SAS Advanced/Statistical Business Analyst, Hootsuite Platform
+- **Tools:** Tableau, Quicksight, Looker, Mode, Airflow, Redshift, Athena, S3, Databricks, DBT, Google Analytics
+- **Statistics**: Hypothesis Testing, A/B Testing, Sampling methods, Experimental Design, ANOVA
+- **Machine Learning**: Regression, Decision Tree, Random Forest, PCA, SVM, KNN, Clustering, Regularization
 
 ### <a href="#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Some of my projects... 
 
