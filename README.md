@@ -68,7 +68,7 @@ Python (Matplotlib, NumPy, pandas, etc), Tableau, SAS, Jira, Asana, Databricks
 
 </td></tr></table>
 
-![](https://visitor-badge.glitch.me/badge?page_id=iamcici.iamcici)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=iamcici.visitor-badge)
 
 <!--
 **iamcici0424/iamcici0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
