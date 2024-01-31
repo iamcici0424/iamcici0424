@@ -21,7 +21,7 @@
 
 ### <a href="#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a>  A little more about me... 
 
-4 YOE motivated, detail-oriented, and responsible senior analyst with industry experience in data analytics, product growth, marketing, healthcare, business intelligence, and statistics at tech firms. Led team projects to track challenges and improvement areas. Demonstrated problem-solving and cross-team communications in turning ambiguous inquiries into concrete solutions.
+4.5 YOE motivated, detail-oriented, and responsible senior analyst with industry experience in data analytics, product growth, marketing, healthcare, business intelligence, and statistics at tech firms. Led team projects to track challenges and improvement areas. Demonstrated problem-solving and cross-team communications in turning ambiguous inquiries into concrete solutions.
 
 Graduated in 2019 from Columbia University(*M.A. in Statistics*) and in 2017 from Baylor University (*B.B.A. in Marketing*). On my way to explore the beauty of data science, I have always been interested in transforming data into useful information and bringing brilliant product insights to the table. I believe that utilizing data is a powerful tool to support the story behind and I desire to continue to learn and grow more in this area step by step.
 
