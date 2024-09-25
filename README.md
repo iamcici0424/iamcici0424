@@ -21,12 +21,12 @@
 
 ### <a href="#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a>  A little more about me... 
 
-4.5 YOE motivated, detail-oriented, and responsible senior analyst with industry experience in data analytics, product growth, marketing, healthcare, business intelligence, and statistics at tech firms. Led team projects to track challenges and improvement areas. Demonstrated problem-solving and cross-team communications in turning ambiguous inquiries into concrete solutions.
+5+ YOE motivated, detail-oriented, and responsible senior analyst with industry experience in data analytics, product growth, marketing, healthcare, business intelligence, and statistics at tech firms. Led team projects to track challenges and improvement areas. Demonstrated problem-solving and cross-team communications in turning ambiguous inquiries into concrete solutions.
 
 Graduated in 2019 from Columbia University(*M.A. in Statistics*) and in 2017 from Baylor University (*B.B.A. in Marketing*). On my way to explore the beauty of data science, I have always been interested in transforming data into useful information and bringing brilliant product insights to the table. I believe that utilizing data is a powerful tool to support the story behind and I desire to continue to learn and grow more in this area step by step.
 
-- **Programming**: SQL(joins, windows, ctes, etc.), R(ggplot2, dplyr, glmnet, shiny, etc.), Excel (pivot table, vlookup), Python(matplotlib, numpy, pandas), SAS(Certified in Advanced/Statistical Business Analyst)
-Python (Matplotlib, NumPy, pandas, etc), Tableau, SAS, Jira, Asana, Databricks
+- **Programming**: SQL(joins, windows, CTEs, etc.), R(ggplot2, dplyr, glmnet, shiny, etc.), Excel (pivot table, vlookup), Python(matplotlib, numpy, pandas), SAS(Certified in Advanced/Statistical Business Analyst)
+Python (Matplotlib, NumPy, pandas, etc), Tableau, Quicksight, SAS, Jira, Asana, Databricks
 - **Certifications**: Google Analytics, CITI Researcher, SAS Advanced/Statistical Business Analyst, Hootsuite Platform
 - **Tools:** Tableau, Quicksight, Looker, Mode, Airflow, Redshift, Athena, S3, Databricks, DBT, Google Analytics
 - **Statistics**: Hypothesis Testing, A/B Testing, Sampling methods, Experimental Design, ANOVA
