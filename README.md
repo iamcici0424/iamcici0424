@@ -1,7 +1,7 @@
 ### Hi there  <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></a> I'm Cici! Welcome to my page:)
 
 <h4 align="center"> 
-  Business Intelligence Engineer II <a href="https://aws.amazon.com/?nc2=h_lg"> @AWS </a> We build AWS Infra Supply | Data Analytics | Marketing & Statistics 
+  Business Intelligence Engineer II <a href="https://aws.amazon.com/?nc2=h_lg"> @AWS </a> We build AWS Infra Supply Optimization | Data Analytics | Marketing & Statistics 
 </h4>
 
 <p align="center">
